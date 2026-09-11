@@ -417,3 +417,4 @@ docker ps -a
 - Use a long random value for `JWT_SECRET_KEY`.
 - Do not use development secrets in production.
 - Restrict CORS origins before production deployment.
+### Contact me: hassan07892026@outlook.com
